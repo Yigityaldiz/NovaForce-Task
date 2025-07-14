@@ -65,6 +65,26 @@ The script requires an OpenAI API key to function.
 - **Important**: The `.gitignore` file is already configured to ignore `.env`, so your secret key will not be committed to Git.
 
 ---
+## 🐛 Troubleshooting: `ModuleNotFoundError`
+
+Sometimes, even after activating the `venv` virtual environment and installing packages with `pip install`, you might encounter an error like **`ModuleNotFoundError: No module named 'openai'`** when you run the code.
+
+This usually happens because your IDE (especially Visual Studio Code) hasn't automatically detected the project's virtual environment. The IDE continues to use your system's global Python interpreter, which doesn't have the required packages installed, leading to the error.
+
+**Solution (for Visual Studio Code):**
+
+You need to manually point the IDE to the correct Python interpreter.
+
+1.  **Open the Command Palette:**
+    * **macOS:** `Cmd + Shift + P`
+    * **Windows/Linux:** `Ctrl + Shift + P`
+
+2.  In the search box that appears, type **`Python: Select Interpreter`** and click the option.
+
+3.  From the list, select the Python interpreter that includes your virtual environment (`venv`). The path will typically contain `./venv/bin/python` and be labeled with `('.venv': venv)`.
+
+4.  After making this selection, restart your IDE or the terminal within the IDE to be safe. This ensures the IDE recognizes the correct environment and can find the libraries.
+---
 
 ## 🚀 Usage
 
