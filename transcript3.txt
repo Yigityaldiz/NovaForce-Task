@@ -1,0 +1,19 @@
+Nova:  Merhaba, başvurduğunuz Hammadde Planlama ve Satın Alma Uzmanı pozisyonu için sizi arıyorum. Görüşmeye başlamak için uygun musunuz? 
+Aday:  Hmm… Evet, başlayalım. 
+Nova:  İlk sorumla başlıyorum. Hammadde planlama ve satın alma süreçlerinde karşılaştığınız en karmaşık problemi paylaşabilir misiniz? 
+Aday:  Yani çok büyük bir problem yaşamadım aslında. Genelde işler yolunda gidiyordu. 
+Nova:  Peki örnek bir durumu anlatabilir misiniz? 
+Aday:  Bazı siparişlerde karışıklık olmuştu, ama tam hatırlamıyorum. 
+Nova:  Anladım. Geçmişte tedarik zinciri sürecinde beklenmedik bir gecikmeyle karşılaştığınız bir durumu nasıl yönettiniz? 
+Aday:  Bekliyorduk işte. Sonra geldi. 
+Nova:  Bu süreçte sizin aldığınız bir aksiyon oldu mu? 
+Aday:  Hayır. Zaten tedarikçiyle bizim ilişkimiz çok doğrudan değildi. 
+Nova:  Peki, iletişim açısından tedarikçiler veya ekip arkadaşlarınızla nasıl iletişim kuruyorsunuz? 
+Aday:  Mail atıyorum bazen. Ama çok yazışmayı sevmem. Herkes zaten ne yapacağını biliyor. 
+Nova:  Yeni bir sistem ya da yazılım öğrenmeniz gerektiğinde nasıl bir yöntem izliyorsunuz? 
+Aday:  Açıkçası teknolojiyle çok aram yok. Genelde başkaları yapıyor, ben takip ediyorum. 
+Nova:  Son sorum: Siparişleri ve teslimatları izlerken hangi analitik araçları kullanıyorsunuz? 
+Aday:  Ben değil, planlama ekibi bakıyor onlara. 
+Nova:  Teşekkür ederim. Sormak istediğiniz bir şey var mı? 
+Aday:  Yok. Zaten bana çok uygun bir pozisyon olmayabilir. 
+Nova:  Anladım. Zaman ayırdığınız için teşekkür ederim. Görüşme burada sona eriyor. İyi günler dilerim. 

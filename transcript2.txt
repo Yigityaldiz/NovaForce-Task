@@ -1,0 +1,56 @@
+Nova: 
+ Merhaba, başvurduğunuz Hammadde Planlama ve Satın Alma Uzmanı pozisyonu için sizi arıyorum. Görüşmeye başlamak için uygun musunuz? 
+
+Aday: 
+ Evet, uygunum. Teşekkür ederim. 
+
+Nova: 
+ Harika. İlk sorumla başlayalım. Hammadde planlama ve satın alma süreçlerinde karşılaştığınız en karmaşık problemi anlatabilir misiniz? 
+
+Aday: 
+ Bir keresinde bir tedarikçiden malzeme geç gelmişti. Üretim tarafı bu yüzden gecikme yaşadı. Ben de ilgili kişileri bilgilendirdim ve süreci takip ettim. 
+
+Nova: 
+ Bu problemi nasıl çözdüğünüzü ve hangi teknikleri kullandığınızı da paylaşır mısınız? 
+
+Aday: 
+ Stok seviyelerine baktım ve alternatif sipariş açtık. Excel üzerinden süreci takip ettim ama çok karmaşık bir analiz yapmadım. 
+
+Nova: 
+ Teşekkürler. Bir sonraki soruya geçiyorum. Geçmişte tedarik zincirinde beklenmedik bir gecikmeyle karşılaştığınız bir durumu hatırlıyor musunuz? 
+
+Aday: 
+ Evet, bazen oluyor. Genelde tedarikçileri arayıp durum alıyorum. Eğer ciddi bir sorun varsa yöneticimle paylaşıyorum. 
+
+Nova: 
+ Bu durumda sizin aldığınız inisiyatif ne oldu? 
+
+Aday: 
+ Yani çok fazla inisiyatif demeyelim ama süreci yakın takip ediyorum. 
+
+Nova: 
+ Anladım. Şimdi iletişimle ilgili bir sorum olacak. Tedarikçiler veya ekip arkadaşlarınızla etkili iletişim kurmak için ne yaparsınız? 
+
+Aday: 
+ Genelde WhatsApp ya da mail ile yazışıyoruz. Acil bir şey varsa telefonla ararım. Yazışmalarda kısa ve net olmaya çalışırım. 
+
+Nova: 
+ Teşekkürler. Yeni bir sistem veya yazılım öğrenmeniz gerektiğinde bu süreci nasıl yönetiyorsunuz? 
+
+Aday: 
+ Genelde birisi gösterirse daha kolay öğreniyorum. Bazen videolar da izliyorum. SAP kullandım, ama ileri seviye değil. 
+
+Nova: 
+ Anladım. Şimdi son sorum: Hammadde siparişlerini ve teslimatları izlerken hangi araçları kullanıyorsunuz? 
+
+Aday: 
+ Excel kullanıyorum. ERP raporlarını da kontrol ediyorum ama daha çok manuel ilerliyoruz. Power BI çok kullanmadım. 
+
+Nova: 
+ Teşekkür ederim. Görüşmenin sonuna geldik. Bana sormak istediğiniz bir şey var mı? 
+
+Aday: 
+ Hayır, teşekkürler. 
+
+Nova: 
+ Ben teşekkür ederim. Başvurunuz için başarılar dilerim. İyi günler! 

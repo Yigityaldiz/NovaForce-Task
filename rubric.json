@@ -1,0 +1,47 @@
+[
+  {
+    "id": "q1",
+    "text": "Hammadde planlama ve satın alma süreçlerinde karşılaştığınız en karmaşık problemi anlatabilir misiniz? Bu problemi nasıl çözdüğünüzü ve hangi teknikleri kullandığınızı paylaşır mısınız?",
+    "examples": {
+      "great": "Açık bir örnek üzerinden, geçmiş veri analizi, alternatif tedarikçi değerlendirmesi, Excel ve Power BI gibi araçlarla yapılan senaryo analizleri anlatılır.",
+      "alright": "Teslimat gecikmesi gibi genel bir durumdan bahseder, temel düzeyde çözümden (örn. yöneticiyi bilgilendirme) söz eder ama teknik detay vermez.",
+      "bad": "Problem hatırlanmaz ya da çözüm 'zaten geçti' gibi yüzeysel anlatılır, teknik araçlardan hiç söz edilmez."
+    }
+  },
+  {
+    "id": "q2",
+    "text": "Geçmişte, tedarik zinciri sürecinde beklenmedik bir gecikmeyle karşılaştığınız bir durumu hatırlıyor musunuz? Bu durumu nasıl ele aldınız ve hangi inisiyatifleri aldınız?",
+    "examples": {
+      "great": "Kriz anında kendi başına aldığı aksiyonları, alternatif tedarikçi bulma sürecini ve ekip içi koordinasyonu detaylı açıklar.",
+      "alright": "Gecikmeden bahseder, tedarikçiye ulaşmak gibi pasif adımlardan söz eder ama bireysel inisiyatif zayıftır.",
+      "bad": "Hatırlamıyor ya da sadece 'bekledik geçti' gibi pasif bir yanıt verir."
+    }
+  },
+  {
+    "id": "q3",
+    "text": "Çalışma arkadaşlarınızla veya tedarikçilerle iletişimde açık ve etkili bir iletişim kurabilmek için hangi yöntemleri kullanıyorsunuz? Bir örnekle açıklayabilir misiniz?",
+    "examples": {
+      "great": "İletişim yöntemlerini sistemli açıklar (örn. yazılı bilgilendirme, toplantı, kontrol listesi) ve somut bir örnekle destekler.",
+      "alright": "Kısaca mail ya da telefon kullandığını belirtir, örnek verir ama detay eksiktir.",
+      "bad": "İletişim tercihlerini açıklamaz ya da 'herkes zaten biliyor' gibi genel-geçer ifadeler kullanır."
+    }
+  },
+  {
+    "id": "q4",
+    "text": "Yeni bir malzeme planlama yazılımı veya sistemi öğrenmeniz gerektiğinde, bu süreci nasıl yönetiyorsunuz? Öğrenme yaklaşımınızı örneklerle anlatabilir misiniz?",
+    "examples": {
+      "great": "Test ortamında senaryo denemeleri, dokümantasyon hazırlama, başkalarına öğretme gibi aktif öğrenme yaklaşımı sergiler.",
+      "alright": "Öğrenmek için video izlediğini veya birilerinden destek aldığını söyler ama öğrenme sistematiği zayıftır.",
+      "bad": "Yeni sistemlerle arası olmadığını veya başkasına yaptırdığını belirtir."
+    }
+  },
+  {
+    "id": "q5",
+    "text": "Hammadde siparişleri ve teslimat performanslarını izlerken hangi analitik araçları veya yöntemleri kullanıyorsunuz? Bu araçların etkinliğini artırmak için önerileriniz var mı?",
+    "examples": {
+      "great": "Excel, Power BI, ERP gibi araçları veriye dayalı izleme için kullandığını anlatır ve üzerine proaktif iyileştirme önerileri sunar.",
+      "alright": "Sadece Excel veya ERP kullandığını belirtir ama öneri ya da analiz yaklaşımı eksiktir.",
+      "bad": "Analitik araç kullanmadığını ya da bu süreçle doğrudan ilgilenmediğini belirtir."
+    }
+  }
+]
